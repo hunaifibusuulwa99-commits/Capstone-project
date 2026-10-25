@@ -1,3 +1,3 @@
-# INVETORY MANAGEMENT SYSTEM
+#
 
-Inventory management system foe small and medium enterprises
+Inventory management application for small and medium enterprises
